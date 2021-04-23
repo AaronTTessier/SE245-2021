@@ -1,0 +1,15 @@
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\bin\Debug\net5.0\Tessier_Lab4Part3.exe
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\bin\Debug\net5.0\Tessier_Lab4Part3.deps.json
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\bin\Debug\net5.0\Tessier_Lab4Part3.runtimeconfig.json
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\bin\Debug\net5.0\Tessier_Lab4Part3.runtimeconfig.dev.json
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\bin\Debug\net5.0\Tessier_Lab4Part3.dll
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\bin\Debug\net5.0\ref\Tessier_Lab4Part3.dll
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\bin\Debug\net5.0\Tessier_Lab4Part3.pdb
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\obj\Debug\net5.0\Tessier_Lab4Part3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\obj\Debug\net5.0\Tessier_Lab4Part3.AssemblyInfoInputs.cache
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\obj\Debug\net5.0\Tessier_Lab4Part3.AssemblyInfo.cs
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\obj\Debug\net5.0\Tessier_Lab4Part3.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\obj\Debug\net5.0\Tessier_Lab4Part3.dll
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\obj\Debug\net5.0\ref\Tessier_Lab4Part3.dll
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\obj\Debug\net5.0\Tessier_Lab4Part3.pdb
+C:\Users\Aaron Tessier\Documents\NEIT\Spring 2021\SE245\Tessier_Lab4Part3\Tessier_Lab4Part3\obj\Debug\net5.0\Tessier_Lab4Part3.genruntimeconfig.cache
