@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tessier_Lab4Part2", "Tessier_Lab4Part2\Tessier_Lab4Part2.csproj", "{CD5DA46B-2004-494E-AC2F-1960CC57C57B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD5DA46B-2004-494E-AC2F-1960CC57C57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5DA46B-2004-494E-AC2F-1960CC57C57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5DA46B-2004-494E-AC2F-1960CC57C57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5DA46B-2004-494E-AC2F-1960CC57C57B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9D5C77B-98F5-494D-BDEE-1B1AA8AB8F0E}
+	EndGlobalSection
+EndGlobal
